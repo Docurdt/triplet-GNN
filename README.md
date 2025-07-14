@@ -1,2 +1,3 @@
 # triplet-GNN
-code for triplet-GNN
+Although large-scale training datasets can largely guarantee the robustness and generalization ability of machine learning models, small datasets can also achieve these capabilities through specific model construction and rigorous evaluation. Here, we developed the triplet-GNN model, incorporating a triplet network structure specifically tailored for small datasets, enabling effective analysis of the tumor microenvironment. The model yielded comparable performance on the independent test set. Notably, this is the first study to integrate mIF-based GNN models for response prediction in neoadjuvant immunochemotherapy, a significant advancement over traditional methods.
+
